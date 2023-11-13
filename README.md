@@ -51,8 +51,3 @@ Vous êtes arrivé au bout.  Continuez. Vous allez maintenant appliquer les nouv
 - Pour toutes questions complémentaire veuillez contacter .  
   - [mehdi boulaymen ](mailto:mehdi.boulaymen@ibm.com)
   - [bruno debat](mailto:**ellen.hoeven@ibm.com**)     
-
-| **Topic**        | **Author** |
-|-----------------|-------------------|
-| [Super Fast RAG With File Upload](https://github.ibm.com/tyler-benson/pdf-langchain-watsonx) | Tyler Benson |  
-
