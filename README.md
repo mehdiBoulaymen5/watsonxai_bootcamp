@@ -50,4 +50,4 @@ Vous êtes arrivé au bout.  Continuez. Vous allez maintenant appliquer les nouv
 ### Contact:
 - Pour toutes questions complémentaire veuillez contacter .  
   - [mehdi boulaymen ](mailto:mehdi.boulaymen@ibm.com)
-  - [bruno debat](mailto:**bruno.debat@ibm.com**)     
+  - [bruno debat](mailto:**bruno.debat@fr.ibm.com**)     
